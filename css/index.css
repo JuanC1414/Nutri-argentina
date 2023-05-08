@@ -7,9 +7,10 @@ body {
 }
 
 header {
-    width: auto;
-    height: auto;
-    display: flex;
+  width: auto;
+  height: auto;
+  display: flex;
+  margin-top: 15%;
 }
 
 /*MENU HAMBURGUESA*/
@@ -53,12 +54,10 @@ header {
 
 
 
-
-
 header img {
-    width: 30%;
+    width: 35%;
     border-radius: 100%;
-    margin-left: 37%;
+    margin-left: 32%;
 }
 
 

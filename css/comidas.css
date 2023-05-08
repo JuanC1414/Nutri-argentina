@@ -10,12 +10,13 @@ header {
     width: auto;
     height: auto;
     display: flex;
+    margin-top: 15%;
 }
 
 header img {
-    width: 30%;
+    width: 35%;
     border-radius: 100%;
-    margin-left: 37%;
+    margin-left: 32%;
 }
 
 Main {
@@ -25,11 +26,15 @@ Main {
     background-color: #85B4A2;
 }
 
-main h1{
+main h1 {
     text-align: center;
     color: #FFFFFF;
-    font-size: 40px;
-}
+    margin: auto;
+    margin-bottom: -25px;
+    font-size: 50px;
+    line-height: 96px;
+    -webkit-text-stroke: #587167 3px;
+    }
 
 .content-card {
     margin: auto;
@@ -57,7 +62,7 @@ main h1{
     width: 5%;
     height: 85%;
     margin: auto;
-    border-radius: 5%;
+    border-radius: 8px;
     padding: 5%;
     background-color: #587167;
 }
@@ -66,7 +71,8 @@ main h1{
     word-break: break-all;
     color: #FFFFFF;
     margin: 10%;
-    margin-top: 60%;
-    font-size: 120%;
+    margin-top: 0;
+    font-size: 135%;
+    font-weight: 600;
     font-family: sans-serif collection;
 }

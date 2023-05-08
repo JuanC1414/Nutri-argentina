@@ -1,0 +1,66 @@
+body {
+    width: auto;
+    height: auto;
+    margin: 0%;
+     margin-top: 3%;
+    background-color: #85B4A2;
+}
+
+header {
+    width: auto;
+    height: auto;
+    display: flex;
+    margin-top: 15%;
+}
+
+header img {
+    width: 35%;
+    border-radius: 100%;
+    margin-left: 32%;
+}
+
+Main {
+    width: auto;
+    height: auto;
+    padding: 5%;
+    background-color: #85B4A2;
+}
+
+main h1 {
+    text-align: center;
+    color: #FFFFFF;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: -25px;
+    font-size: 50px;
+    line-height: 96px;
+    -webkit-text-stroke: #587167 3px;
+}
+
+.content-contacto {
+    margin-top: 17%;
+    text-align: center;
+}
+
+.con-contacto {
+    width: 100%;
+    display: flex;
+    margin-bottom: 15%;
+    height: auto;
+}
+.con-contacto a {
+    width: 50%;
+    height: auto;
+    text-decoration: none;
+}
+    
+.con-contacto img {
+    width: 90px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.con-contacto p {
+    color: #FFFFFF;
+    font-size: 25px;}
+        
